@@ -1,4 +1,4 @@
-
+package testPackage;
 /**
  * This is a superclass of any moveable thing in the game. Maybe it should be an interface? I think not;
  * the common thread is actually the data below, not a method "move".

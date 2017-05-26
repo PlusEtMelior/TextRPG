@@ -1,4 +1,4 @@
-
+package testPackage;
 /**
  * Abstract class Creature - write a description of the class here
  * 

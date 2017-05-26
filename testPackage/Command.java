@@ -1,4 +1,4 @@
-
+package testPackage;
 /**
  * Abstract class Command - write a description of the class here
  * 

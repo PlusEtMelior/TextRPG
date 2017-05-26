@@ -1,4 +1,4 @@
-
+package testPackage;
 /**
  * This class is a parent class for any in-game object.
  */
