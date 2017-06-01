@@ -5,6 +5,8 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
+package text_rpg; 
+
 import java.util.*;
 public class Setting extends GameplayElement
 {

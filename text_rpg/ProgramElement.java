@@ -4,6 +4,8 @@
  * to make everything work. I do not know if this really needs a superclass, but it is useful for
  * categorization right now.
  */
+package text_rpg; 
+
 public abstract class ProgramElement
 {
     

@@ -3,6 +3,8 @@
  * This is a superclass of any moveable thing in the game. Maybe it should be an interface? I think not;
  * the common thread is actually the data below, not a method "move".
  */
+package text_rpg; 
+
 public abstract class Mobile extends GameplayElement
 {
     private Setting location; //Which room or location it is in.

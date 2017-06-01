@@ -5,6 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
+package text_rpg;
 public class Driver
 {
     public static void main(String[] args)

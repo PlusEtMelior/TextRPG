@@ -5,11 +5,16 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
+package text_rpg; 
+
 import java.io.*;
 public class Diary extends ProgramElement
 {
     private File storedDiary;
     private File changes;
+    public Diary()
+    {
+    }
     public String open() //returns the contents of the File
     {
         return null; //placeholder for actual returned string

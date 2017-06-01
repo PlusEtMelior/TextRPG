@@ -2,6 +2,7 @@
 /**
  * This class is a parent class for any in-game object.
  */
+package text_rpg; 
 public abstract class GameplayElement
 {
     private String description;

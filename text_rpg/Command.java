@@ -5,10 +5,10 @@
  * @author (your name here)
  * @version (version number or date here)
  */
-public abstract class Command extends ProgramElement
+package text_rpg; 
+
+public abstract class Command
 {
-    public String  execute(String[] args)
-    {
-        return "";
-    }
+    private Action instructions;
+    private String name;
 }
