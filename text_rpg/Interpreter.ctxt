@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Interpreter
+comment1.params=
+comment1.target=java.lang.String\ takeInput()
+comment2.params=input
+comment2.target=java.lang.String\ respond(java.lang.String)
+comment3.params=input
+comment3.target=Command\ matchCommand(java.lang.String)
+numComments=4

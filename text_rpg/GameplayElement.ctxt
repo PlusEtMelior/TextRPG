@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameplayElement
+comment1.params=
+comment1.target=GameplayElement()
+comment2.params=newName\ newDescription
+comment2.target=GameplayElement(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+numComments=5

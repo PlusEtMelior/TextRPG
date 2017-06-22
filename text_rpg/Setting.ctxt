@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Setting
+comment1.params=name\ description
+comment1.target=Setting(java.lang.String,\ java.lang.String)
+comment2.params=name\ description\ mobiles
+comment2.target=Setting(java.lang.String,\ java.lang.String,\ Mobile[])
+comment3.params=
+comment3.target=Mobile[]\ getContents()
+comment4.params=
+comment4.target=Mobile\ getMobile()
+comment5.params=i
+comment5.target=Mobile\ getMobile(int)
+numComments=6
