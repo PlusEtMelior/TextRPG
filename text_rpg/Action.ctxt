@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=Action
+comment0.text=\n\ A\ very\ simple\ interface\ created\ only\ because\ I\ like\ the\ descriptive\ name\ better\ than\n\ whatever\ the\ name\ of\ the\ equivalent\ built-in\ java\ interface\ might\ be.\n
 comment1.params=
-comment1.target=java.lang.String\ getResponse()
+comment1.target=void\ instructions()
 numComments=2

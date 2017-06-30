@@ -1,14 +1,11 @@
- 
+package text_rpg;
 
 
 /**
- * Write a description of interface Action here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * A very simple interface created only because I like the descriptive name better than
+ * whatever the name of the equivalent built-in java interface might be.
  */
-package text_rpg;
 public interface Action
 {
-    public abstract String getResponse();
+    public void instructions();
 }
